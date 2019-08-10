@@ -4,5 +4,5 @@ A command line tool to fetch random jokes from https://icanhazdadjoke.com.
 # Installation
 
 ## Mac
-  brew tap kaminey/joke
-  brew install joke
+  1. brew tap kaminey/joke
+  2. brew install joke
